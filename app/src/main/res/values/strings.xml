@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="celsius_degree">°C</string>
+    <string name="temperature_value">%s°</string>
+    <string name="m_s">m/s</string>
+    <string name="wind">Wind</string>
+    <string name="humidity">Humidity</string>
+    <string name="location_access">Location access</string>
+    <string name="location_access_instruction">App need location to work,please turn it ON</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="error_occurred">Error occurred</string>
+    <string name="data_is_loaded_from_local_storage">App is offline. Data loaded from local storage</string>
+    <string name="app_is_offline">App is offline</string>
+    <string name="app_does_not_work">Application does not work without GPS</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
