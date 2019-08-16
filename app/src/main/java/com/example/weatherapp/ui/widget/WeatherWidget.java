@@ -12,9 +12,6 @@ import com.example.weatherapp.R;
 import com.example.weatherapp.data.interactor.ForecastInteractor;
 import com.example.weatherapp.entity.Forecast;
 
-/**
- * Implementation of App Widget functionality.
- */
 public final class WeatherWidget extends AppWidgetProvider {
     @Nullable
     private ForecastInteractor forecastInteractor;
